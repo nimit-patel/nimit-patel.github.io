@@ -32,7 +32,7 @@ orcid_username: 0009-0006-9014-632X
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fa-solid fa-brain
+  icon: fas fa-brain
   url: https://scholar.google.com/citations?user=TPxCxlcAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
