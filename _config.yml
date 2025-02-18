@@ -84,10 +84,19 @@ content:
         sub_title: Principal Data Scientist II, Pittsburgh PA
         caption: Feb 2017 - Present
         description: | # this will include new lines to allow paragraphs
-            * Counseling client executives and building technical capabilities
+            * <b> Counseling client executives and building technical capabilities </b>
               - Technical leader in QuantumBlack, spear-heading development of advanced analytics solutions and AI strategy for Fortunate 500 companies, across multi-year digital transformations with cumulative impact of over $200M.
               - Guided senior executives in designing the funnel of AI use-cases to set the strategic vision and transforming their technical organization & capabilities across 10+ clients, with cumulative impact of over $200M.
-
+          
+            * <b> People leadership, internal asset development and developing Risk frameworks </b>
+              - Led cross-functional technical teams of Data scientists, Engineers and UI/UX developers across multiple clients - defining the development roadmaps, deploying solutions at-scale and driving change management for user adoption
+              - Defined implementation playbooks and developed internal McKinsey assets/products to capture knowledge across client deployments, enabling scaling use-cases to larger client base and accelerated development timelines.
+              - Developed framework for data science best practices when deploying large scale AI/ML models in production, guiding engineering principles to reduce Enterprise Risk, that has been used across 15+ McKinsey Digital client engagements over the past 5+ years
+              - Internal leader within McKinsey, building the Firm and capabilities: serving as a faculty for leadership trainings like FLITE &LEAD training 300+ consultants and organizing a 3-day DE-DS conference for over 700 participants
+          
+            * <b> Proprietary solution development with global impact </b>
+              - Lead contributor for developing & deploying OptimusAI, McKinsey’s proprietary AI solution for optimizing heavy industrial processes. OptimusAI that has delivered >$4B in impact globally across various industries like Chemicals, Metals & Mining, Oil & Gas, Electric Power, Pharmaceuticals etc.
+        
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
