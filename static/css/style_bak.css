@@ -3955,6 +3955,11 @@ table.table-mail tr td {
 .text-navy {
   color: #1ab394;
 }
+
+.text-darkblue {
+  color: #2e1ab3;
+}
+
 .text-primary {
   color: inherit;
 }
@@ -6563,9 +6568,11 @@ body.landing-page {
 .landing-page span.navy {
   color: #1ab394;
 }
+
 .landing-page span.darkblue {
   color: #2e1ab3;
 }
+
 .landing-page p.text-color {
   color: #676a6c;
 }
