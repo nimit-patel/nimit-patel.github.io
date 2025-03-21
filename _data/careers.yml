@@ -8,7 +8,7 @@
     detail: Feb 2017 - Present
     i18n: re_date
   job:
-    detail: Principal Data Scientist II
+    detail: McKinsey & Company
     i18n: re_job
   icon: fa-briefcase
 
@@ -22,6 +22,6 @@
     detail: Jan 2016 - Dec 2016
     i18n: re_date
   job:
-    detail: Data Analytics Researcher
+    detail: Purdue University
     i18n: re_job
   icon: fa-briefcase
