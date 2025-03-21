@@ -25,31 +25,3 @@
     detail: Data Analytics Researcher
     i18n: re_job
   icon: fa-briefcase
-
-- name:
-    detail: M.S. in Industrial Engineering, Purdue University
-    i18n: vibot
-  desc:
-    detail: GPA - 3.91/4.00
-    i18n: vibot_des
-  date:
-    detail: Sep. 2009 - Sep. 2011
-    i18n: vibot_date
-  job:
-    detail: M.S. student
-    i18n: vibot_job
-  icon: fa-book
-
-- name:
-    detail: B.Tech in Mechanical Engineering, NIT Surat - India
-    i18n: EE, UTP
-  desc:
-    detail: GPA - 9.15/10.00
-    i18n: utp_des
-  date:
-    detail: Aug 2011 - May 2015
-    i18n: utp_date
-  job:
-    detail: B.Tech student
-    i18n: utp_job
-  icon: fa-book
