@@ -55,7 +55,7 @@ sections:
 
   - id: 'projects'
     i18n: 'nav.projects'
-    name: 'Projects'
+    name: 'Media'
     tpl: 'projects.html'
     css: 'project'
 
