@@ -1,3 +1,15 @@
+- name: 'Yahoo Tech article'
+  i18n: 'yahootech'
+  url: 'https://tech.yahoo.com/articles/ai-driven-predictive-maintenance-future-140228926.html'
+  img: 'static/img/landing/Yahoo-tech-logo.png'
+  desc: 'Yahoo Tech news post about the POWER magazine article written by Nimit Patel'
+
+- name: 'POWER Magazine article'
+  i18n: 'power'
+  url: 'https://www.powermag.com/ai-driven-predictive-maintenance-the-future-of-reliability-in-power-plants/'
+  img: 'static/img/landing/POWER-magazine-logo.png'
+  desc: 'POWER magazine article on AI in Predictive Maintenance written by Nimit Patel'
+
 - name: 'CToday Award'
   i18n: 'ctoday'
   url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
