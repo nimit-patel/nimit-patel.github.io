@@ -1,3 +1,9 @@
+- name: 'Forbes article'
+  i18n: 'forbesgeorgia'
+  url: 'https://forbes.ge/en/inside-the-ai-driven-transformation-of-industrial-processing-with-nimit-patel/'
+  img: 'static/img/landing/Forbes-Georgia-logo.png'
+  desc: 'Forbes article about the impact driven by Nimit Patel in Industrial Process optimization using AI'
+
 - name: 'Yahoo Tech article'
   i18n: 'yahootech'
   url: 'https://tech.yahoo.com/articles/ai-driven-predictive-maintenance-future-140228926.html'
