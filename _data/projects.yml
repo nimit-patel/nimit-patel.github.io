@@ -16,6 +16,12 @@
   img: 'static/img/landing/POWER-magazine-logo.png'
   desc: 'POWER magazine article on AI in Predictive Maintenance written by Nimit Patel'
 
+- name: 'Mining Magazine article'
+  i18n: 'miningmagazine'
+  url: 'https://www.miningmagazine.com/technology/news-analysis/4412388/optimising-copper-concentrators-ai'
+  img: 'static/img/landing/Mining-magazine-logo.png'
+  desc: "Mining magazine article about Nimit Patel's experience in using AI for optimizing mining processes"
+
 - name: 'CToday Award'
   i18n: 'ctoday'
   url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
