@@ -2,7 +2,7 @@
   i18n: 'forbesgeorgia'
   url: 'https://forbes.ge/en/inside-the-ai-driven-transformation-of-industrial-processing-with-nimit-patel/'
   img: 'static/img/landing/Forbes-Georgia-logo.png'
-  desc: 'Forbes article about the impact driven by Nimit Patel in Industrial Process optimization using AI'
+  desc: "Forbes article about Nimit Patel's work in Industrial Process optimization using AI"
 
 - name: 'Yahoo Tech article'
   i18n: 'yahootech'
@@ -20,16 +20,16 @@
   i18n: 'miningmagazine'
   url: 'https://www.miningmagazine.com/technology/news-analysis/4412388/optimising-copper-concentrators-ai'
   img: 'static/img/landing/Mining-magazine-logo.png'
-  desc: "Mining magazine article about Nimit Patel's experience in using AI for optimizing mining processes"
+  desc: "Mining magazine article about Nimit Patel's work using AI in Mining"
 
 - name: 'CToday Award'
   i18n: 'ctoday'
   url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
   img: 'static/img/landing/Ctoday Logo_Nimit Patel.png'
-  desc: 'Nimit Patel won the CToday award for "Elite Leader in AI-powered Business Transformation - 2025"'
+  desc: 'Nimit Patel won the "Elite Leader in AI-powered Business Transformation - 2025" award'
 
 - name: 'Medium - OptimusAI'
   i18n: 'optimusai'
   url: 'https://medium.com/quantumblack/boosting-productivity-in-heavy-industries-using-ai-d32e890676db'
   img: 'static/img/landing/Medium-Logo.png'
-  desc: "Medium article about OptimusAI, Quantumblack's proprietary AI solution for optimizing heavy industrial processes"
+  desc: "Medium article about OptimusAI, Quantumblack's proprietary AI solution"
