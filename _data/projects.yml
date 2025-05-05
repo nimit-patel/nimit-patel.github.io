@@ -22,6 +22,12 @@
   img: 'static/img/landing/Mining-magazine-logo.png'
   desc: "Mining magazine article about Nimit Patel's work using AI in Mining"
 
+- name: 'Canadian Mining Journal'
+  i18n: 'canadianminingjournal'
+  url: 'https://www.canadianminingjournal.com/featured-article/under-the-surface-how-ai-and-genai-are-transforming-the-end-to-end-mining-landscape/'
+  img: 'static/img/landing/Canadian-Mining-logo.png'
+  desc: "Canadian Mining journal article by Nimit Patel about AI use-cases in Mining"
+
 - name: 'CToday Award'
   i18n: 'ctoday'
   url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
