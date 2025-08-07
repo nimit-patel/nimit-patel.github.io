@@ -4,6 +4,18 @@
   img: 'static/img/landing/Forbes-Georgia-logo.png'
   desc: "Forbes article about Nimit Patel's work in Industrial Process optimization using AI"
 
+- name: 'CToday Award'
+  i18n: 'ctoday'
+  url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
+  img: 'static/img/landing/Ctoday Logo_Nimit Patel.png'
+  desc: 'Nimit Patel won the "Elite Leader in AI-powered Business Transformation - 2025" award'
+
+- name: 'AI Time article'
+  i18n: 'aitime'
+  url: 'https://www.aitimejournal.com/nimit-patel-principal-data-scientist-ii-ai-in-power-plants-co%E2%82%82-reduction-cross-functional-alignment-genai-for-molecules-strategic-ai-leadership-ethics-emerging-trends-and-moo/53406/'
+  img: 'static/img/landing/AI-Time-logo.png'
+  desc: 'Q&A article with Nimit Patel on AI in Power Plants, AI Leadership and much more'
+
 - name: 'Yahoo Tech article'
   i18n: 'yahootech'
   url: 'https://tech.yahoo.com/articles/ai-driven-predictive-maintenance-future-140228926.html'
@@ -11,10 +23,16 @@
   desc: 'Yahoo Tech news post about the POWER magazine article written by Nimit Patel'
 
 - name: 'POWER Magazine article'
-  i18n: 'power'
+  i18n: 'power1'
   url: 'https://www.powermag.com/ai-driven-predictive-maintenance-the-future-of-reliability-in-power-plants/'
   img: 'static/img/landing/POWER-magazine-logo.png'
   desc: 'POWER magazine article on AI in Predictive Maintenance written by Nimit Patel'
+
+- name: 'POWER Magazine article'
+  i18n: 'power2'
+  url: 'https://www.powermag.com/unlocking-power-plant-efficiency-how-ai-models-are-revolutionizing-heat-rate-optimization/'
+  img: 'static/img/landing/POWER-magazine-logo.png'
+  desc: 'POWER magazine article on AI in Power Plant efficiency written by Nimit Patel'
 
 - name: 'Mining Magazine article'
   i18n: 'miningmagazine'
@@ -27,12 +45,6 @@
   url: 'https://www.canadianminingjournal.com/featured-article/under-the-surface-how-ai-and-genai-are-transforming-the-end-to-end-mining-landscape/'
   img: 'static/img/landing/Canadian-Mining-logo.png'
   desc: "Canadian Mining journal article by Nimit Patel about AI use-cases in Mining"
-
-- name: 'CToday Award'
-  i18n: 'ctoday'
-  url: 'https://ctodayawards.com/awards/nimit-patel-mckinsey-company-elite-leader-in-ai-powered-business-transformation-2025'
-  img: 'static/img/landing/Ctoday Logo_Nimit Patel.png'
-  desc: 'Nimit Patel won the "Elite Leader in AI-powered Business Transformation - 2025" award'
 
 - name: 'Medium - OptimusAI'
   i18n: 'optimusai'
