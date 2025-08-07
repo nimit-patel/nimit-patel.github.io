@@ -5,7 +5,7 @@
   "nav":{
     "home": "Home",
     "about_me": "About",
-    "skills": "Skills",
+    "skills": "Technical Skills",
     "projects": "Media articles",
     "publications": "Publications",
     "career": "Career",
@@ -17,7 +17,7 @@
     "des": "I am a passionate technical and strategic leader with ~10 years of experience of bringing together deep Artificial Intelligence expertise and people leadership to drive large-scale impact."
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "My Technical Skills"
   },
   "projects":{
     "my_projects": "Media/Online articles about my work",
