@@ -41,12 +41,6 @@ sections:
     tpl: 'education.html'
     css: 'timeline'
 
-  - id: 'skills'
-    i18n: 'nav.skills'
-    name: 'Skills'
-    tpl: 'skills.html'
-    css: 'team'
-
   - id: 'publications'
     i18n: 'nav.publications'
     name: 'Publications'
@@ -58,6 +52,12 @@ sections:
     name: 'Media'
     tpl: 'projects.html'
     css: 'project'
+
+  - id: 'skills'
+    i18n: 'nav.skills'
+    name: 'Technical Skills'
+    tpl: 'skills.html'
+    css: 'team'
 
 # localization
 languages:
